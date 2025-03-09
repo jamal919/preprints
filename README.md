@@ -7,3 +7,6 @@ Being preprints, not the final formatted manuscript from the journals, it is in 
 ## Publication list
 ### 2025
 - [Khan, M.J.U., Durand, F., Afroosa, M., Coulet, P., Bertin, X., Mueller, V., Krien, Y., Wainwright, C. (2025) Tropical cyclone induced compound flooding in Madagascar: A coupled modeling approach, Natural Hazards.](https://jamal919.github.io/preprints/Khan2025_NH/Khan2025_NH_accepted.pdf)
+
+### 2024
+- [Testut, L., Becker, M., Khan, J., Grall, C., Long, N., Krien, Y., Durand, F., Ballu, V., Karpytchev, M., Clamant, S., Shum, C.K. (2024) Sea level variations in the Sundarbans.](https://jamal919.github.io/preprints/Testut2024_Chapter/Testut2024_Chapter.pdf)
